@@ -1,0 +1,7 @@
+*.exe
+*.prp
+*.lock*
+*.rep
+*.gpr
+*.txt
+*.zip
