@@ -1,0 +1,4 @@
+first character checks if input string has at position 1 the character 'a'							-> 'a'
+The following check compares the characters after 'a' with '5y' 								-> 'a5y'
+Next, there is a comparison between the input string, and string 'AGR3versing', but comparison starts at position 2		-> 'a5yR3versing'
+At the end it is checked if the very first character is 'E'									-> 'Ea5yR3versing'
